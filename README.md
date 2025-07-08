@@ -95,14 +95,6 @@ mvn spring-boot:run
 
 ---
 
-## 👩‍💻 Desenvolvedora:
-
-**Tayná Silva**  
-[LinkedIn](https://www.linkedin.com/in/tay-silva/)
-
-Este projeto faz parte do desafio **Literalura** do programa **Oracle Next Generation (ONE) em parceria com a Alura**.
-
-_____________________________
 
 <p align="left"><a id="english-version"> English Version </a></p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -196,9 +188,6 @@ mvn spring-boot:run
 
 ---
 
-## Developer
 
-Developed by **Tayná Silva**  
-[LinkedIn](https://www.linkedin.com/in/tay-silva/)
 
 This project is part of the **Literalura** challenge of the **Oracle Next Generation (ONE) program in partnership with Alura**.
